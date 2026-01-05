@@ -1,3 +1,3 @@
 # kuchlenz-for-mn
 
-[Executive Summary](./executive_summary.md)
+[Executive Summary](./executive-summary.md)
