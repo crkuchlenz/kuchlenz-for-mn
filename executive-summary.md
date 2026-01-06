@@ -113,3 +113,5 @@ This project positions Minnesota as a national leader in public financial transp
 
 ## Bottom Line
 Financial transparency is not a political talking point—it is foundational infrastructure. This initiative builds that infrastructure for the next generation of accountable government.
+
+//This goes beyond even municipalities to school districts and charter schools. Funding pool utilization and common contracting expenses can be rounded up since they all have to abide by the state's accounting standards under UFARS and GAAP. Audit guide:https://www.osa.state.mn.us/media/qv3lbp1p/2024guidecharterschools.pdf
